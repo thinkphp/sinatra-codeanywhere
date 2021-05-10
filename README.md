@@ -1,5 +1,5 @@
 # Sinatra hosted on codeanywhere
 
-## Lunch App using rackup
+## Launch App using rackup
 
 cabox@Rails:~/workspace/my_sinatra_app$ rackup --host=0.0.0.0 --port=3000
